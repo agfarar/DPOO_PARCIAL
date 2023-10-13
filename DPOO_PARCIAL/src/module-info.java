@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module DPOO_PARCIAL {
-}
